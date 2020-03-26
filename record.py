@@ -1,5 +1,5 @@
 """
-This script is mostly copy from https://stackoverflow.com/questions/50832181/how-to-record-audio-in-python-without-giving-the-duration-in-advance
+This script is mostly copied from https://stackoverflow.com/questions/50832181/how-to-record-audio-in-python-without-giving-the-duration-in-advance
 Modified and edited by Tungthanhlee
 """
 
